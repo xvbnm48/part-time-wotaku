@@ -1,0 +1,8 @@
+# config/_default/config.toml
+
+languageCode = "en"
+
+enableRobotsTXT = "true"
+
+author.name = "Frz"
+footer.showCopyright = "true"
